@@ -1,3 +1,8 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# 系统文件保护
 input profiles.json
 favorites.json
 config.json
